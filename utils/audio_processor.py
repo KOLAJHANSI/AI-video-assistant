@@ -27,6 +27,7 @@ def download_youtube_audio(url: str) -> str:
     ],
 
     "quiet": False,
+    "verbose":True,
     "noplaylist": True,
 }
 
