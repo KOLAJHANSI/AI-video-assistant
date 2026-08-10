@@ -13,7 +13,7 @@ __pycache__/
 *.pyo
 
 # Downloaded files
-downloads/
+downloades/
 
 # Vector database
 vector_db/
